@@ -369,7 +369,7 @@ install_exeldro_plugin "https://obsproject.com/forum/resources/source-switcher.9
 install_exeldro_plugin "https://obsproject.com/forum/resources/time-warp-scan.1167/version/3475/download?file=72760" "time-warp-scan-0.1.6-linux64.tar.gz.zip"
 install_exeldro_plugin "https://obsproject.com/forum/resources/virtual-cam-filter.1142/version/4031/download?file=80127" "virtual-cam-filter-0.0.5-linux64.tar.gz.zip"
 install_exeldro_plugin "https://nightly.link/exeldro/obs-downstream-keyer/workflows/build/master/downstream-keyer-2022-11-20-efcf880223f126c1a4879aeb5d5ebce8e00f0691-ubuntu-${UBUNTU_VER}.04.tar.gz.zip"
-install_exeldro_plugin "https://nightly.link/exeldro/obs-media-controls/actions/runs/2957756881/media-controls-2022-08-30-b37f7ab24dcf40701e1f538c14f608a5a0db868b-ubuntu-${UBUNTU_VER}.04.tar.gz.zip"
+install_exeldro_plugin "https://nightly.link/exeldro/obs-media-controls/workflows/build/master/media-controls-2022-08-30-b37f7ab24dcf40701e1f538c14f608a5a0db868b-ubuntu-${UBUNTU_VER}.04.tar.gz.zip"
 install_exeldro_plugin "https://nightly.link/exeldro/obs-replay-source/actions/runs/3054879761/replay-source-2022-09-14-5c3866fcd3ae3834c75715e52239d531d445fd65-ubuntu-${UBUNTU_VER}.04.tar.gz.zip"
 install_exeldro_plugin "https://nightly.link/exeldro/obs-scene-collection-manager/actions/runs/2957768377/scene-collection-manager-2022-08-30-95001a892b3d2fe137be0e2091e687cbe5491b59-ubuntu-${UBUNTU_VER}.04.tar.gz.zip"
 install_exeldro_plugin "https://nightly.link/exeldro/obs-scene-notes-dock/actions/runs/2957781272/scene-notes-dock-2022-08-30-f63f31bc1fad6012950e679a2808bdc8b2b6d706-ubuntu-${UBUNTU_VER}.04.tar.gz.zip"
